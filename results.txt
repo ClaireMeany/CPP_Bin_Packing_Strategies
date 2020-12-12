@@ -1,0 +1,16 @@
+Bin Counts for each strategy: 
+Next Fit had the lowest bin count 0 times.
+First Fit Online had the lowest bin count 0 times.
+Best Fit Online had the lowest bin count 0 times.
+First Fit Offline had the lowest bin count 6 times.
+Best Fit Offline had the lowest bin count 10 times.
+
+Bin Averages:
+Next Fit had a bin average of 66.6 bins.
+First Fit Online had a bin average of 56.6 bins.
+Best Fit Online had a bin average of 55.8 bins.
+First Fit Offline had a bin average of 54 bins.
+Best Fit Offline had a bin average of 53.6 bins.
+
+Best Bin Average:
+Best Fit Offline had the lowest bin average of 53.6 bins
